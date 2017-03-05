@@ -1,6 +1,7 @@
-# code-Testing-
-Code testing performance
+### code-Testing --- How to write unit test cases for python code.
+
+-- Developed a pacman game
+-- Wrote unit test cases to for the developed game.
 
 
-Clone this code and check for how to write testcases for python code <br>
-Knows How to use various testing tools like pylint,Eclipse.
+We have various testing tools to check the code performance. I have used pylint to check the python code.
